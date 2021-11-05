@@ -4,8 +4,8 @@ import Styles from "../../Assets/styles/Styles.css";
 export default function Section2(){
     return(
         <div id="about">
-          <h2 className="h2__about">We Help businesses <br/> 
-            <b>Grow and Innovate </b>
+          <h2 className="h2__about">We Help businesses  
+           <br/> <b>Grow and Innovate </b>
           </h2>
           <p className="texto_largo">
             Lorem ipsum dolor sit amet, consetetur sadipiscing elitr, sed doam nonumy eirmod tempor invidunt ut 

@@ -18,7 +18,7 @@ function App() {
     <Section3/>
     <Section4/>
     <Formulario/>
-    <Footer/>
+    <Footer/> 
     </div>
   );
 }

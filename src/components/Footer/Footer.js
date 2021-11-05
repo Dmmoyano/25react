@@ -3,9 +3,9 @@ import React from "react";
 
 export default function Footer(){
     return(
-<footer class="footer">
-  <p class="pfooter">2020 © All rights reserved.</p>
-  <div class="imgfooter"></div>
+<footer className="footer">
+  <p className="pfooter">2020 © All rights reserved.</p>
+  <div className="imgfooter"></div>
 </footer>
     );
 }
