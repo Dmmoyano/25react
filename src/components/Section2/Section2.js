@@ -1,6 +1,5 @@
 import React from 'react';
-import Styles from "../../Assets/styles/Styles.css";
-
+import '../../Assets/styles/Styles.css'
 export default function Section2(){
     return(
         <div id="about">

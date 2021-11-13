@@ -1,6 +1,6 @@
 import React from "react";
 import { Container } from "react-bootstrap";
-import Styles from '../../Assets/styles/Styles.css';
+import '../../Assets/styles/Styles.css'
 import { Accordion } from "react-bootstrap";
 
 
