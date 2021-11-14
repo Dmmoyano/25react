@@ -1,6 +1,6 @@
 import React from "react";
 import {Form } from "react-bootstrap";
-
+import {senEmail} from "../../axios/Axios";
 
 
 export default function Formulario ({onChangeName, onChangeEmail, onChangePhone, onChangeMessage, onClick}){
