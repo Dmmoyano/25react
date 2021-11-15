@@ -41,7 +41,7 @@ export default function SendData()  {
              const response = await axios({
                 method: 'POST',
                 formData,    
-                url:  `http://127.0.0.1:8000/api/probando`
+                url:  `https://back25watts.herokuapp.com/api/probando`
 
              })
              console.log(response)
