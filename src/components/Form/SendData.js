@@ -41,7 +41,7 @@ export default function SendData()  {
              const response = await axios({
                 method: 'POST',
                 formData,    
-                url:  `https://back25watts.herokuapp.com/api/probando`
+                url:  `http://laravelmundose.herokuapp.com/api/public`
 
              })
              console.log(response)
