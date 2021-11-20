@@ -41,7 +41,7 @@ export default function SendData()  {
              const response = await axios({
                 method: 'POST',
                 formData,    
-                url:  `http://laravelmundose.herokuapp.com/api/public`
+                url:  `http://laravelmundose.herokuapp.com/public`
 
              })
              console.log(response)
